@@ -17,4 +17,4 @@ The primary objective of the diabetes classification analysis is to develop an a
 Python for Data Cleaning, Data Transformation, Data Visualisation, Data Analysis, Data Preprocessing, and Classification Analysis.
 
 ## Data Set
-The data set is publicly available on [Kaggle](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset).
+The data set is publicly available on [Kaggle](https://www.kaggle.com/datasets/abdullahkhanuet22/olx-cars-dataset).
